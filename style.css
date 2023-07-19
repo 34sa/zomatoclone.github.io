@@ -708,7 +708,7 @@ padding-left: 1rem;
       grid-template-columns: repeat(auto-fit, minmax(32rem, 1fr));
     }
     .brands .bran_cont {
-      gap: 3rem;
+      gap: 2rem;
     }
   }
 
@@ -872,4 +872,7 @@ padding-left: 1rem;
    .accordiann_cont {
    margin: 0rem;
 }
+    .brands .bran_cont {
+      gap: 3rem;
+    }
 }
