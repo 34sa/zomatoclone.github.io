@@ -666,53 +666,6 @@ padding-left: 1rem;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 980px) {
   html {
     font-size: 60.5%;
@@ -880,7 +833,7 @@ padding-left: 1rem;
     }
     .bottom_navbar .nav_links {
       position: absolute;
-      top: 20%;
+      top: 17%;
     }
 
     .delivery .del_cont {
