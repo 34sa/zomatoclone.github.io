@@ -855,8 +855,8 @@ padding-left: 1rem;
       height: auto;
     }
     .colllections .coll_cont {
-      grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
-      gap: 4rem;
+      grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+      gap:2rem;
     }
     .collections .coll_cont .coll_img img {
       height: 25vh;
