@@ -727,13 +727,13 @@ padding-left: 1rem;
       height: auto;
     }
     .brands .bran_cont {
-      gap: 9rem;
+      gap: 3rem;
     }
     .collections {
       height: auto;
     }
     .colllections .coll_cont {
-      grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
       gap:3rem;
     }
     .main_head .main_info p {
