@@ -849,14 +849,14 @@ padding-left: 1rem;
       left: 85%;
     }
     .delivery .del_cont {
-      grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
     }
     .collections {
       height: auto;
     }
     .colllections .coll_cont {
-      grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
-      gap: 5rem;
+      grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+      gap: 4rem;
     }
     .collections .coll_cont .coll_img img {
       height: 25vh;
